@@ -17,3 +17,4 @@ C:\Users\Bruger\Desktop\kode\C#Projects\DBSC#\ConsoleApp1\bin\Debug\net8.0\Micro
 C:\Users\Bruger\Desktop\kode\C#Projects\DBSC#\ConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Bruger\Desktop\kode\C#Projects\DBSC#\ConsoleApp1\bin\Debug\net8.0\Npgsql.dll
 C:\Users\Bruger\Desktop\kode\C#Projects\DBSC#\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\Bruger\Desktop\kode\C#Projects\DBSC#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
