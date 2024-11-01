@@ -11,8 +11,4 @@
     <PackageReference Include="Npgsql" Version="8.0.4" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="AppService\" />
-  </ItemGroup>
-
 </Project>

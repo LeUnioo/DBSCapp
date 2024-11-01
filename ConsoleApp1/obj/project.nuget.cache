@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/AKJXZR7LBI=",
+  "dgSpecHash": "HSgda7q7uVA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\Desktop\\kode\\C#Projects\\DBSC#\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\RiderProjects\\DBSCapp\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
